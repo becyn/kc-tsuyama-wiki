@@ -107,15 +107,19 @@ Q. 膝に矢を受けてしまってな。
    津山高専には、バリアフリーの玄関、またエレベーターが完備されております。
    車椅子でも松葉杖でも安心してご来場ください。
 
-//** スタッフ
+** スタッフ名簿 [#pd086aca]
+まだまだ更新するよー！
 //書式について
 //   自身の名前をコメントアウトで挿入し、その後、自身の（なまえ、しごと（役割）、画像、SNS（載せたいものだけ）、ひとこと）を|区切りで記載してください。よくわからなかったら、びしんのを参考に書いてみてください。
 //画像について
 //   画像はこのページのTOPにある［添付］から自身の使いたい画像（Twitterのアイコン？）を48*48のサイズでアップロードし、使用してください。
 
-//|なまえ|おしごと|あばたー|えすえぬえす|なにかひとこと|h
+|なまえ|おしごと|あいこん|つながり|ひとこと|h
 ////飯田有佳子（この行はコメントアウトです）
-//|飯田 有佳子|実行委員長|#ref(becyn48.png,,100%,becyn)|[[Twitter>http://twitter.com/becyn]]&br;[[Facebook>http://www.facebook.com/iida.yukako.0521]]|実行委員長、ガバル꒰ ・ ̫・ ꒱！|
+|びしん（飯田 有佳子）|実行委員長・卒業生代表|#ref(becyn48.png,,100%,becyn)|[[Twitter>http://twitter.com/becyn]]&br;[[Facebook>http://www.facebook.com/iida.yukako.0521]]|卒業も実行委員長、ガバル꒰ ・ ̫・ ꒱！|
+|ト魔領（寺尾　奈々）|副実行委員長|#ref(77toMARYO.png,,100%,)|[[Twitter>http://twitter.com/77toMARYO]]&br;[[Facebook>http://www.facebook.com/77toMARYO]]|楽しいカンファにしたいのでネギトロください。|
+|さんだー（国定　凌太）|会計|#ref(92thunder.png,,100%,92thunder)|[[Twitter>http://twitter.com/92thunder]]&br;[[Facebook>http://www.facebook.com/92thunder]]|カンファ初心者ですががんばりまっす！|
+|紅亜（石谷　沙央）|うごうご|#ref(koa48.png,,100%,koa)|[[Twitter>http://twitter.com/koa48]]&br;[[Facebook>http://www.facebook.com/sawo.ishitani]]|うごうごしてます。日々逝きます。|
 
 ** 2次会 [#g30d80c1]
 - 只今、調整中です！
