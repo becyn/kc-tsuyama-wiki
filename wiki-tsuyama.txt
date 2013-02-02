@@ -19,8 +19,10 @@ TITLE:高専カンファレンス in 津山
 
 ** ポスター [#a3814ccc]
 //↓画像を貼るための書き方。上のメニューの「添付」から画像を添付し、画像ファイル名と縮小率を指定する。
-//#ref(poster.png,,50%,ポスター)
-- ただいま準備中です
+#ref(ポスター.png,,100%,高専カンファレンスin津山)
+制作者:ト魔領
+#ref(kosenconf1.pdf,,100%,ポスターのPDFはこちらから)
+//- ただいま準備中です
 
 ** 発表者募集 [#ze6e23d2]
 *** 発表形式 [#m2a36a0a]
@@ -66,7 +68,7 @@ TITLE:高専カンファレンス in 津山
 上記の高速バスの詳細は[[こちら:http://www.kakuyasubus.jp/kansai_chugoku/tsuyama_express/index.html]]をご覧ください。（外部サイトへ移動します）
 
 *** 新幹線をご利用の方 [#m341fd31]
-岡山駅から津山線に乗り換えます。所要時間としては、1.5時間ほどかかります。頻度としては、1時間に2本あるかないかぐらいなので、乗り遅れの内容ご注意ください。詳しい時刻表は[[こちら:http://time.jr-odekake.net/cgi-bin/mydia.cgi?MODE=11&FUNC=0&EKI=%89%aa%8e%52&SENK=%92%c3%8e%52%90%fc&DIR=%95%9f%93%6e%81%45%92%c3%8e%52%81%45%92%b9%8e%e6%95%fb%96%ca&DDIV=%93%79%81%45%8b%78%93%fa&CDAY=%95%bd%90%ac%32%34%94%4e%33%8c%8e%31%37%93%fa%81%40%89%fc%90%b3&DITD=%32%38%31%34]]をご覧ください。（外部サイトへ移動します）
+岡山駅から津山線に乗り換えます。所要時間としては、1.5時間ほどかかります。頻度としては、1時間に2本あるかないかぐらいなので、乗り遅れのないようご注意ください。詳しい時刻表は[[こちら:http://time.jr-odekake.net/cgi-bin/mydia.cgi?MODE=11&FUNC=0&EKI=%89%aa%8e%52&SENK=%92%c3%8e%52%90%fc&DIR=%95%9f%93%6e%81%45%92%c3%8e%52%81%45%92%b9%8e%e6%95%fb%96%ca&DDIV=%93%79%81%45%8b%78%93%fa&CDAY=%95%bd%90%ac%32%34%94%4e%33%8c%8e%31%37%93%fa%81%40%89%fc%90%b3&DITD=%32%38%31%34]]をご覧ください。（外部サイトへ移動します）
 
 また、仮に東京から本カンファに新幹線に乗って参加しようとすると、以下の様なスケジュールとなります。
 |区間|出発時間|到着時間|所要時間|h
@@ -116,10 +118,11 @@ Q. 膝に矢を受けてしまってな。
 
 |なまえ|おしごと|あいこん|つながり|ひとこと|h
 ////飯田有佳子（この行はコメントアウトです）
-|びしん（飯田 有佳子）|実行委員長・卒業生代表|#ref(becyn48.png,,100%,becyn)|[[Twitter>http://twitter.com/becyn]]&br;[[Facebook>http://www.facebook.com/iida.yukako.0521]]|卒業も実行委員長、ガバル꒰ ・ ̫・ ꒱！|
+|びしん（飯田 有佳子）|実行委員長・卒業生代表|#ref(becyn48.png,,100%,becyn)|[[Twitter>http://twitter.com/becyn]]&br;[[Facebook>http://www.facebook.com/iida.yukako.0521]]|卒業も実行委員長も、ガバル꒰ ・ ̫・ ꒱！|
 |ト魔領（寺尾　奈々）|副実行委員長|#ref(77toMARYO.png,,100%,)|[[Twitter>http://twitter.com/77toMARYO]]&br;[[Facebook>http://www.facebook.com/77toMARYO]]|楽しいカンファにしたいのでネギトロください。|
 |さんだー（国定　凌太）|会計|#ref(92thunder.png,,100%,92thunder)|[[Twitter>http://twitter.com/92thunder]]&br;[[Facebook>http://www.facebook.com/92thunder]]|カンファ初心者ですががんばりまっす！|
 |紅亜（石谷　沙央）|うごうご|#ref(koa48.png,,100%,koa)|[[Twitter>http://twitter.com/koa48]]&br;[[Facebook>http://www.facebook.com/sawo.ishitani]]|うごうごしてます。日々逝きます。|
+|PUHITAKU（末田 卓巳）|Ustなどなど|#ref(PUHITAKU.jpg,,100%,PUHITAKU)|[[Twitter>http://twitter.com/PUHITAKU]]&br;[[Facebook>http://www.facebook.com/takumi.sueda]]|いそがしーいそがしーけど 意 識 高 ま っ て き た あ あ あ !|
 
 ** 2次会 [#g30d80c1]
 - 只今、調整中です！
