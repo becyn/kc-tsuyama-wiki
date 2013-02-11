@@ -2,6 +2,8 @@ TITLE:高専カンファレンス in 津山
 
 * 高専カンファレンス in 津山 [#k125bc3a]
 // このあたりに最新情報を書くといいかも
+- テーマ　&size(25){「みんなに伝えたい、2012」};
+<今年あった自分のこと、高専のこと、社会のこと、2012年度のこと。みんなが伝えたい！と思ったことについての発表がしたくて、聞きたくて、テーマにしました。~
 
 目次：
 #contents
@@ -10,9 +12,9 @@ TITLE:高専カンファレンス in 津山
 - 日時 ： 2013年3月16日(土)
 - 場所 ： 津山高専
 - 参加費用 ：
--- 本会 ：
+-- 本会
 --- 学生／社会人：0円
--- 懇親会 ：
+-- 懇親会
 --- 学生：無料
 --- 社会人：500円
 - 定員 ： 50名
@@ -123,6 +125,9 @@ Q. 膝に矢を受けてしまってな。
 |さんだー（国定　凌太）|会計|#ref(92thunder.png,,100%,92thunder)|[[Twitter>http://twitter.com/92thunder]]&br;[[Facebook>http://www.facebook.com/92thunder]]|カンファ初心者ですががんばりまっす！|
 |紅亜（石谷　沙央）|うごうご|#ref(koa48.png,,100%,koa)|[[Twitter>http://twitter.com/koa48]]&br;[[Facebook>http://www.facebook.com/sawo.ishitani]]|うごうごしてます。日々逝きます。|
 |PUHITAKU（末田 卓巳）|Ustなどなど|#ref(PUHITAKU.jpg,,100%,PUHITAKU)|[[Twitter>http://twitter.com/PUHITAKU]]&br;[[Facebook>http://www.facebook.com/takumi.sueda]]|いそがしーいそがしーけど 意 識 高 ま っ て き た あ あ あ !|
+|めぐ（藤田　千穂）|遠足補助員|#ref(TRPTp_q.png,,100%,meg)|[[Twitter>http://twitter.com/TRPTp_q]]&br;Facebook|無事卒業して、カンファを目一杯楽しめますように。|
+|おやゆび（中村　悠生）|広報など|#ref(oyyb.png,,100%,oy2b)|[[Twitter>http://twitter.com/oy2b]]&br;[[Facebook>http://www.facebook.com/yukinakamura.yukinakamura]]|一日が24時間じゃ足りない勢|
+|やしへい（小林 龍平）|Ust|#ref(yashihei.png,,100%,yashihei)|[[Twitter>http://twitter.com/yashihei]]&br;|色々と未熟ですががんばります！|
 
 ** 2次会 [#g30d80c1]
 - 只今、調整中です！
