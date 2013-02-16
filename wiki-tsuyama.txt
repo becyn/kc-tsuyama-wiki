@@ -3,7 +3,7 @@ TITLE:高専カンファレンス in 津山
 * 高専カンファレンス in 津山 [#k125bc3a]
 // このあたりに最新情報を書くといいかも
 - テーマ　&size(25){「みんなに伝えたい、2012」};
-<今年あった自分のこと、高専のこと、社会のこと、2012年度のこと。みんなが伝えたい！と思ったことについての発表がしたくて、聞きたくて、テーマにしました。~
+<今年あった自分のこと、高専のこと、社会のこと、2012年度のこと。みんなが伝えたい！と思ったことについての発表がしたくて、聞きたくて、テーマにしてみました。~
 
 目次：
 #contents
@@ -50,6 +50,37 @@ TITLE:高専カンファレンス in 津山
 |17:10-17:30|告知枠|
 |17:30-|閉会式＆写真撮影|
 |終わり次第|懇親会|
+
+**懇親会BINGO [#zecf98fb]
+当懇親会BINGOは2部構成となっております、詳細は下記を御覧ください。
+
+&size(19){%%%''&color(Blue){第1部 - BINGOコンテスト};''%%%};
+
+BINGOマシンのコンテストを行います。
+
+&color(Red){''BINGOのできるアプリケーション''};、または&color(Red){''BINGOの機械そのもの''};を作ってきてください。
+
+そして、その採用されたものでBINGO大会を行います。
+-BINGOの数字は1番から75番までです。
+-BINGOマシンの内容は問いません、自由に作ってきてください。（アピールできる点があれば高得点を狙えるかも!!）
+-審査は当日行いますので、動作確認をした上でご持参ください。
+-アプリケーションに関しましては、パソコン上で動くものとします。
+-採用された方には豪華景品が！
+-&color(red){参加は自由です、必ず作ってくる必要はありません。};
+
+多くの方が作ってきてくれることを願います!!
+
+見本
+#ref(bingo.png,,40%,アプリケーション)
+
+
+&size(19){%%%''&color(Blue){第2部 - BINGO大会};''%%%};
+-参加資格：誰でも（年齢、性別、問いません!!）
+-景品　　：あり　
+-参加賞　：あり
+-損　　　：なし
+
+皆様のご参加をお待ちしております。
 
 ** 交通アクセス [#o5a5e9c4]
 &googlemaps2(width=400px, height=300px, mapctrl=small, lat=35.080964, lng=134.013189, zoom=14);
@@ -125,9 +156,10 @@ Q. 膝に矢を受けてしまってな。
 |さんだー（国定　凌太）|会計|#ref(92thunder.png,,100%,92thunder)|[[Twitter>http://twitter.com/92thunder]]&br;[[Facebook>http://www.facebook.com/92thunder]]|カンファ初心者ですががんばりまっす！|
 |紅亜（石谷　沙央）|うごうご|#ref(koa48.png,,100%,koa)|[[Twitter>http://twitter.com/koa48]]&br;[[Facebook>http://www.facebook.com/sawo.ishitani]]|うごうごしてます。日々逝きます。|
 |PUHITAKU（末田 卓巳）|Ustなどなど|#ref(PUHITAKU.jpg,,100%,PUHITAKU)|[[Twitter>http://twitter.com/PUHITAKU]]&br;[[Facebook>http://www.facebook.com/takumi.sueda]]|いそがしーいそがしーけど 意 識 高 ま っ て き た あ あ あ !|
-|めぐ（藤田　千穂）|遠足補助員|#ref(TRPTp_q.png,,100%,meg)|[[Twitter>http://twitter.com/TRPTp_q]]&br;Facebook|無事卒業して、カンファを目一杯楽しめますように。|
+|めぐ（藤田　千穂）|受付責任者|#ref(TRPTp_q.png,,100%,meg)|[[Twitter>http://twitter.com/xmxexg]]&br;|無事卒業して、カンファを目一杯楽しめますように。|
 |おやゆび（中村　悠生）|広報など|#ref(oyyb.png,,100%,oy2b)|[[Twitter>http://twitter.com/oy2b]]&br;[[Facebook>http://www.facebook.com/yukinakamura.yukinakamura]]|一日が24時間じゃ足りない勢|
 |やしへい（小林 龍平）|Ust|#ref(yashihei.png,,100%,yashihei)|[[Twitter>http://twitter.com/yashihei]]&br;|色々と未熟ですががんばります！|
+|ときはの（木下 準人）|懇親会BINGO|#ref(ctokiha.png,,100%,ctokiha)|[[Twitter>http://twitter.com/ctokiha]]&br;[[Facebook>http://www.facebook.com/hayato.kinoshita.77]]|「やました」でも「ときのは」でもありません！|
 
 ** 2次会 [#g30d80c1]
 - 只今、調整中です！
