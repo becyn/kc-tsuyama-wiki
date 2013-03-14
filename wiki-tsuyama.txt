@@ -153,8 +153,9 @@ BINGOマシンのコンテストを行います。
 
 **FAQ [#s803edc2]
 Q. ネットは使えますか？
-   残念なことに、各自で準備いただいております＞＜
-   電源はこちらで確保しておりますので、ご安心ください！
+   会場では無線LANについてを提供しております。詳しいパスワードなどについては別紙をご覧ください。
+   回線が混みあう恐れがあるので、モバイルルータ等お持ちの方はなるべく利用しないようお願い申し上げます。
+   また、多数の方が使用されるため、Ustなどのご視聴はご遠慮ください。
 
 Q. 自家用車乗り入れは可能ですか？
    津山高専内の駐車場をご利用いただけます！
@@ -191,7 +192,7 @@ Q. 膝に矢を受けてしまってな。
 |さんだー（国定　凌太）|会計|#ref(92thunder.png,,100%,92thunder)|[[Twitter>http://twitter.com/92thunder]]&br;[[Facebook>http://www.facebook.com/92thunder]]|カンファ初心者ですががんばりまっす！|
 |紅亜（石谷　沙央）|うごうご|#ref(koa48.png,,100%,koa)|[[Twitter>http://twitter.com/koa48]]&br;[[Facebook>http://www.facebook.com/sawo.ishitani]]|うごうごしてます。日々逝きます。|
 |PUHITAKU（末田 卓巳）|Ustなどなど|#ref(PUHITAKU.jpg,,100%,PUHITAKU)|[[Twitter>http://twitter.com/PUHITAKU]]&br;[[Facebook>http://www.facebook.com/takumi.sueda]]|いそがしーいそがしーけど 意 識 高 ま っ て き た あ あ あ !|
-|めぐ（藤田　千穂）|受付責任者|#ref(TRPTp_q.png,,100%,meg)|[[Twitter>http://twitter.com/xmxexg]]&br;|無事卒業して、カンファを目一杯楽しめますように。|
+|めぐ（藤田 千穂）|受付責任者|#ref(TRPTp_q.png,,100%,meg)|[[Twitter>http://twitter.com/xmxexg]]&br;|無事卒業して、カンファを目一杯楽しめますように。|
 |おやゆび（中村　悠生）|広報、wiki編集|#ref(oyyb.png,,100%,oy2b)|[[Twitter>http://twitter.com/oy2b]]&br;[[Facebook>http://www.facebook.com/yukinakamura.yukinakamura]]|一日が24時間じゃ足りない勢|
 |やしへい（小林 龍平）|Ust|#ref(yashihei.png,,100%,yashihei)|[[Twitter>http://twitter.com/yashihei]]&br;|色々と未熟ですががんばります！|
 |ときはの（木下 準人）|懇親会BINGO|#ref(ctokiha.png,,100%,ctokiha)|[[Twitter>http://twitter.com/ctokiha]]&br;[[Facebook>http://www.facebook.com/hayato.kinoshita.77]]|「やました」でも「ときのは」でもありません！|
@@ -199,6 +200,7 @@ Q. 膝に矢を受けてしまってな。
 |ゆーこ（大塚友美子）|受付||[[Twitter>https://twitter.com/1859yuko]]|よろしくお願いします♪|
 |Everything（花田知佳）|受付||[[Twitter>https://twitter.com/722723916]]|よろしくお願いします！|
 |みやけゆうま|||[[Facebook>http://www.facebook.com/miyay88]]||
+|にき（仁木 雄介）|会場レイアウト|||綺麗な顔してるだろ…？カンファはじめてなんだぜ、俺…|
 
 //** 会計報告 [#oc289622]
 //- 開催終わってから
